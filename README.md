@@ -65,16 +65,10 @@ Final course grades will be calculated based upon the following percentages.
 
 The grading in this course is on an absolute scale. This means that the performance of others in the class will not affect your grade. Letter grades will be assigned using the following scale:
 
-- A  ≥ 93.0% 
-- A-  ≥ 90.0% and < 93.0%
-- B+ ≥ 87.0% and < 90.0%
-- B  ≥ 83.0% and < 87.0%
-- B-  ≥ 80.0% and < 83.0%
-- C+ ≥ 77.0% and < 80.0%
-- C  ≥ 73.0% and < 77.0%
-- C-  ≥ 70.0% and < 73.0%
-- D+ ≥ 67.0% and < 70.0%
-- D  ≥ 60.0% and < 67.0%
+- A  ≥ 90.0% 
+- B  ≥ 80.0% and < 90.0%
+- C  ≥ 70.0% and < 80.0%
+- D  ≥ 60.0% and < 70.0%
 - F   < 60.0%
 
 For S/N grading, a satisfactory grade (S) requires a grade of 70.0% or above.
@@ -104,7 +98,7 @@ That is possible in rare circumstances, but you need to talk with me about this 
 If you use all your late points, we will grade the assignment with a late penalty of 5% for each day it is late.
 
 *If I don't use all my late points by the end of the semester, will I receive bonus points?*  
-No. The late points are meant to increase equity for students that are disadvantaged in this course. If they were redeemable for bonus points, then this would effectively penalize the students who need extensions for legitimate reasons beyond their control. If this seems unfair to you, then please consider this explanation from the National Association of Colleges of Employers: "The term *equity* refers to fairness and justice and is distinguished from *equality*: Whereas equality means providing the same to all, equity means recognizing that we do not all start from the same place and must acknowledge and make adjustments to imbalances."
+No. The late points are meant to increase flexibility for students face challenges in this course. If they were redeemable for bonus points, then this would effectively penalize the students who need extensions for legitimate reasons beyond their control. 
 
 ## Standard Policies
 
