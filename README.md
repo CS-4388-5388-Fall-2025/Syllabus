@@ -1,13 +1,13 @@
 # Syllabus
 
-CS 4388/CS 5388, Fall 2024  
+CS 4388/CS 5388, Fall 2025  
 Computer Graphics  
 
 Instructor: Isayas Berhe Adhanom, Ph.D.<br> 
 Office hours: Monday and Wednesday, 1:00 - 2:00 PM, In person (Comal 307 E) or on Zoom 
 
 
-TA: Bikram De<br>
+TA: Mahfujur Rahman<br>
 Office Hours: Monday and Tuesday, 12:00 - 2:00 PM on Zoom
 
 ## Overview
