@@ -4,7 +4,7 @@ CS 4388/CS 5388, Fall 2025
 Computer Graphics  
 
 Instructor: Isayas Berhe Adhanom, Ph.D.<br> 
-Office hours: Monday and Wednesday, 1:00 - 2:00 PM, In person (Comal 307 E) or on Zoom 
+Office hours: Monday and Wednesday, 1:00 - 2:00 PM, In person (Comal 307 E) 
 
 
 TA: Mahfujur Rahman<br>
@@ -156,3 +156,4 @@ If you have already been working with the Office of Disability Services and have
 ## Acknowledgments
 
 *Aspects of this syllabus (including this statement) were adopted from Evan Suma Rosenberg, Nathan Taylor, Daniel Keefe, Blair MacIntyre, Shana Watters, Lana Yarosh, and the American Association of University Professors Joint Statement on Rights and Freedoms of Students, because writing a good syllabus is hard.*
+
