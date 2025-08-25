@@ -8,7 +8,7 @@ Office hours: Monday and Wednesday, 1:00 - 2:00 PM, In person (Comal 307 E)
 
 
 TA: Mahfujur Rahman<br>
-Office Hours: Monday and Tuesday, 12:00 - 2:00 PM on Zoom
+Office Hours: Monday and Tuesday, 12:00 - 1:00 PM, In person (Comal 309 J) and on Zoom
 
 ## Overview
 
@@ -45,15 +45,15 @@ There is no textbook for this course.  However, there will be online resources, 
 
 There will be a total of six programming assignments in this class. Although they are challenging, they are also the most exciting and rewarding aspect of the course (and your chance to impress your friends with some cool 3D graphics). Your goal in these assignments should be to come away with a great practical understanding of how to tackle new computer graphics programming challenges using the modern programming toolkits.
 
-Each assignment will be introduced at the beginning of a two-week module. At the end of the first week, you will complete the **Quiz**. This will review the key mathematical or algorithmic concepts in the assignment.  Quizzes will be administered **online** and are **open book**.  They will need to be completed before the deadline, but they otherwise have no time limit, and you have flexibility in choosing when to take it.  Note that the quizzes are designed to get you thinking about the assignment early, so it is generally a good idea to complete them before starting work on the program.
+Each assignment will be introduced at the beginning of a two-week module. At the end of the first week, you will complete the **Quiz**. This will review the key mathematical or algorithmic concepts in the assignment.  Quizzes will be administered **online** and are **open book**.  They will need to be completed before the deadline, and you have flexibility in choosing when to take it.  Note that the quizzes are designed to get you thinking about the assignment early, so it is generally a good idea to complete them before starting work on the program.
 
-At the end of the second week, you will submit the **Program**. If you struggled with the quiz, then seek help from TAs as needed, and make sure that you understand the key concepts first. At a minimum, your goal should be to have a full understanding of the concepts and how you will solve the programming portion by the end of the first week. This way, you will be sure to have at least one full week to implement and debug the program.
+At the end of the second week, you will submit the **Program**. If you struggled with the quiz, then seek help from the TA as needed, and make sure that you understand the key concepts first. At a minimum, your goal should be to have a full understanding of the concepts and how you will solve the programming portion by the end of the first week. This way, you will be sure to have at least one full week to implement and debug the program.
 
 Students enrolled in CS 5388 (graduate section) will have additional work to complete for each assessment. This extra work will include tasks designed to meet the higher expectations for graduate students, ensuring a deeper understanding and more advanced application of the course material.
 
 ### Class Participation
 
-Certain classes, especially those involving live programming, will include a **participation exercise** that will need to be completed by the end of the module. These exercises are very short and meant to provide deeper engagement with the course concepts. All of the exercises will be submitted online, so you can complete them even if you watch the lecture video asynchronously. Completing the participation exercises will count for 10% of your final grade, and the **lowest two** will be dropped to allow for the occasional missed class.
+Certain classes, especially those involving live programming, will include a **participation exercise** that will need to be completed in class. These exercises are very short and meant to provide deeper engagement with the course concepts. Completing the participation exercises will count for 10% of your final grade, and the **lowest two** will be dropped to allow for the occasional missed class.
 
 ## Grading
 
@@ -133,15 +133,15 @@ The web will be one of your best learning tools and sources of documentation for
 
 - You are not allowed to search for solutions to assignments. For example, if your assignment is to develop your own texture mapping routine for a sphere, you can lookup the API documentation to learn the right function to call and the right syntax to use to set the texture coordinate for each vertex in a mesh. What you cannot do is google for “texture map a sphere” and find out how to setup a for loop and use cos() and sin() equations to determine the correct texture coordinates for each vertex of the sphere. This is the difference between using the web as a programming toolkit reference vs. using the web as a reference for the computer graphics algorithms/solutions that are being taught in the course. With the exception of the small snippets of code that are found in the official language or API documentation, you should never copy code like a routine, class, object, etc. from a website and include it in an assignment or project. 
 - You are not allowed to ask other people to complete portions of an assignment or project for you. This includes classmates, friends, and use of paid services.
-- You are **not allowed to use AI platforms** such as ChatGPT, Bard, Claude, Bing, or Microsoft Copilot to solve conceptual problems or generate code on quizzes or programming assignments.  While AI technologies can be powerful tools for experienced programmers, using them to complete coursework will undermine your learning.
-- You are **not allowed to use AI programming plugins** such as GitHub Copilot. Once again, these tools are intended to help professional developers write code faster, but if you use them in this course, they may trivialize portions of the assignments and prevent you from learning the core concepts that a graphics programmer would be expected to understand.
+- You are **not allowed to use AI platforms** such as ChatGPT, Gemini, Claude, Perplexity or Microsoft Copilot to solve conceptual problems or generate code on quizzes or programming assignments.  While AI technologies can be powerful tools for experienced programmers, using them to complete coursework will undermine your learning.
+- You are **not allowed to use AI programming plugins or IDEs** such as GitHub Copilot or Cursor. Once again, these tools are intended to help professional developers write code faster, but if you use them in this course, they may trivialize portions of the assignments and prevent you from learning the core concepts that a graphics programmer would be expected to understand.
 - You cannot use third-party assets that violate license terms or the rights of the original author. For example, free art assets that are posted in a public forum or asset store are permissible. However, any commercial or copyrighted assets, such as 3D models available for purchase on an online store, must be obtained legitimately. In general, using someone's work without their consent is ethically wrong and will be considered academic dishonesty in this course.
 
 #### Consequences of Academic Dishonesty
 
 Academic dishonesty in this class will result in a 0 on the assignment or exam in question for the first offense, and an automatic F in the class for the second offense. All cases of academic dishonesty are required to be reported to the University Honor Code Council.
 
-Remember, we are here to help you. If you have any questions about whether something counts as academic dishonesty, please ask me or the TAs for clarification!
+Remember, we are here to help you. If you have any questions about whether something counts as academic dishonesty, please ask me for clarification!
 
 ## Mental Health Information
 
