@@ -8,7 +8,7 @@ Office hours: Monday and Wednesday, 1:00 - 2:00 PM, In person (Comal 307 E)
 
 
 TA: Mahfujur Rahman<br>
-Office Hours: Monday and Tuesday, 12:00 - 1:00 PM, In person (Comal 309 J) and on Zoom
+Office Hours: Monday and Wednesday, 2:00 - 3:00 PM, In person (Comal 309 J) and on Zoom
 
 ## Overview
 
